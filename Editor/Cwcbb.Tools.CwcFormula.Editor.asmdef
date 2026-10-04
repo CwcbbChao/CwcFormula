@@ -1,0 +1,18 @@
+{
+    "name": "Cwcbb.Tools.CwcFormula.Editor",
+    "rootNamespace": "Cwcbb.Tools.CwcFormula.Editor",
+    "references": [
+        "Cwcbb.Tools.CwcFormula.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,10 @@
+THIRD-PARTY NOTICES AND LICENSES
+
+Package: CwcFormula
+Version: 1.0.0
+Author: Cwcbb
+
+This package contains solely original code developed by Cwcbb.
+It does not bundle, depend upon, or redistribute any third-party open-source libraries or third-party assets.
+
+All mathematical formula models, inspector drawer controls, and dynamic anti-aliased preview popups are implemented using standard Unity Engine APIs and C# standard libraries.

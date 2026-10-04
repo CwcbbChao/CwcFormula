@@ -1,0 +1,27 @@
+{
+  "name": "com.cwcbb.cwcformula",
+  "version": "1.0.0",
+  "displayName": "CwcFormula - Visual Math Curve & Growth Formula Engine",
+  "description": "A polymorphic, zero-allocation mathematical formula engine and visual curve editing suite for Unity. Features 7 built-in progression models (Linear, Exponential, Power, Asymptotic, Segmented, Curve, Constant), polymorphic [SerializeReference] containers without forced ScriptableObject asset dependencies, card-style inspector drawers with instant anti-aliased curve preview popups, and live crosshair sampling.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "formula",
+    "math",
+    "curve",
+    "growth",
+    "progression",
+    "rpg",
+    "stats",
+    "evaluation",
+    "inspector",
+    "zero-gc"
+  ],
+  "author": {
+    "name": "Cwcbb",
+    "url": "https://github.com/CwcbbChao"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "samples": [],
+  "dependencies": {}
+}
